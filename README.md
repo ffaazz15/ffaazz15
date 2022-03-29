@@ -15,4 +15,9 @@ frameworks like springboot and Django.<p>
 💫I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.<br/>
 📧You can also connect with me on mohammedfazil196@gmail.com !..i'll try to respond you as soon as i can🙃 
 
-
+<img
+  align="right"
+  width="200"
+  height="250"
+  src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif"
+/>
