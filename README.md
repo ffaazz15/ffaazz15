@@ -5,7 +5,7 @@
   align="right"
   width="250"
   height="250"
-  src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"
+  src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif"
 />
 </p><br/>
 🎓I'am computer science engineer<br/>
