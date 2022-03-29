@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## I'm Mohammed Fazil,Below is a small summary of mySelf..⬇️ 
 
 <img
   align="right"
@@ -14,6 +14,7 @@
 <br/>
 💡some technologies I enjoy working with include ReactJS, Python, java and Node.js. Currently exploring 
 frameworks like springboot and Django.<p>
+  <br/>
   <br/>
 💫I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.<br/>
   <br/>
