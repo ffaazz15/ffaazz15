@@ -20,14 +20,7 @@ frameworks like springboot and Django.<p>
   <br/>
 📧You can also connect with me on  mohammedfazil196@gmail.com !..i'll try to respond you as soon as i can🙃 
   <br/>
-
-  <p>
-  <img
-  align="center"
-  width="220"
-  height="210"
-  src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif"
-/>
-</p>
+  
+  
 <img src="https://github.com/tanyarajhans/Actions/raw/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%; user-select: auto;">
 
