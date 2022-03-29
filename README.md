@@ -24,7 +24,7 @@ frameworks like springboot and Django.<p>
   <p>
   <img
   align="center"
-  width="200"
+  width="220"
   height="210"
   src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif"
 />
