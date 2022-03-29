@@ -18,7 +18,7 @@ frameworks like springboot and Django.<p>
   <br/>
 💫I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.<br/>
   <br/>
-📧You can also connect with me on mohammedfazil196@gmail.com !..i'll try to respond you as soon as i can🙃 
+📧You can also connect with me on  mohammedfazil196@gmail.com !..i'll try to respond you as soon as i can🙃 
   <br/>
 
   <p>
@@ -29,6 +29,5 @@ frameworks like springboot and Django.<p>
   src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif"
 />
 </p>
-       
-
+<img src="https://github.com/tanyarajhans/Actions/raw/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%; user-select: auto;">
 
