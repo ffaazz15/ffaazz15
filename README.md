@@ -7,14 +7,12 @@ frameworks like springboot and Django.<br/>
 <p>
 <img
   align="right"
-  width="100"
-  height="100"
+  width="200"
+  height="250"
   src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"
 />
 </p>
 💫I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.<br/>
 📧You can also connect with me on mohammedfazil196@gmail.com !..i'll try to respond you as soon as i can🙃 
 
-<p align="center">
-  <img src="demo.gif" alt="animated" />
-</p>
+
