@@ -12,7 +12,7 @@
 <br/>
 💫I work as a software engineer for Neova Solutions,Pune<br/>
 <br/>
-💡some technologies I enjoy working with include ReactJS, Python, java and Node.js. Currently exploring 
+💡some technologies I enjoy working with include ReactJS, Python,go, java and Node.js. Currently exploring 
 frameworks like springboot and Django.<p>
   <br/>
   <br/>
