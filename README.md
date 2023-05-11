@@ -12,8 +12,8 @@
 <br/>
 💫I work as a software engineer for Neova Solutions,Pune<br/>
 <br/>
-💡some technologies I enjoy working with include ReactJS, Python,go, java and Node.js. Currently exploring 
-frameworks like springboot and Django.<p>
+💡some technologies I enjoy working with include Cypress, Selenium, PlayRight, Python,go, java and Node.js. Currently exploring 
+frameworks - springboot and Django.<p>
   <br/>
   <br/>
 💫I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.<br/>
