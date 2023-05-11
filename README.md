@@ -16,7 +16,7 @@
 frameworks - springboot and Django.<p>
   <br/>
   <br/>
-💫I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.<br/>
+💫I'm on track for learning more about different tools in Testing UI's and Api's, Cross-Platform Development, Systems Design, and Algorithms.<br/>
   <br/>
 📧You can also connect with me on  mohammedfazil196@gmail.com !..i'll try to respond you as soon as i can🙃 
   <br/>
