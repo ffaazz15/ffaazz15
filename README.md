@@ -5,7 +5,7 @@
   align="right"
   width="250"
   height="250"
-  src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif"
+  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJuYjU4eHFqOG9tOHc4OW05anIwdXVzYnZzYWh6ZzYxZG4wZXJiYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"
 />
 </p><br/>
 🎓I'am computer science engineer<br/>
@@ -21,8 +21,5 @@ frameworks - springboot and Django.<p>
 📧You can also connect with me on  mohammedfazil196@gmail.com !..i'll try to respond you as soon as i can🙃 
   <br/>
 
- <img 
-  width="200"
-  height="100"
-   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJuYjU4eHFqOG9tOHc4OW05anIwdXVzYnZzYWh6ZzYxZG4wZXJiYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" />
+
 
