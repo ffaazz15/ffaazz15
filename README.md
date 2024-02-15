@@ -20,6 +20,6 @@ frameworks - springboot and Django.<p>
   <br/>
 📧You can also connect with me on  mohammedfazil196@gmail.com !..i'll try to respond you as soon as i can🙃 
   <br/>
-  
-<img src="https://emojicdn.elk.sh/🐼?style=twitter" alt="Waving Panda">
+
+ <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJuYjU4eHFqOG9tOHc4OW05anIwdXVzYnZzYWh6ZzYxZG4wZXJiYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
