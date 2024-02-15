@@ -10,7 +10,7 @@
 </p><br/>
 🎓I'am computer science engineer<br/>
 <br/>
-💫I work as a software engineer for Neova Solutions,Pune<br/>
+💫I work as a software engineer for Elastiq.ai<br/>
 <br/>
 💡some technologies I enjoy working with include Cypress, Selenium, PlayRight, Python,go, java and Node.js. Currently exploring 
 frameworks - springboot and Django.<p>
