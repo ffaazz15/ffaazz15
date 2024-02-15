@@ -21,6 +21,5 @@ frameworks - springboot and Django.<p>
 📧You can also connect with me on  mohammedfazil196@gmail.com !..i'll try to respond you as soon as i can🙃 
   <br/>
   
-  
-<img src="https://github.com/tanyarajhans/Actions/raw/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%; user-select: auto;">
+<img src="https://emojicdn.elk.sh/🐼?style=twitter" alt="Waving Panda">
 
