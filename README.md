@@ -21,7 +21,7 @@ frameworks - springboot and Django.<p>
 📧You can also connect with me on  mohammedfazil196@gmail.com !..i'll try to respond you as soon as i can🙃 
   <br/>
 
-  <img src="/fykaa/fykaa/raw/main/contributiongrid.svg" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑" style="max-width: 100%;">
+
 
 
 
