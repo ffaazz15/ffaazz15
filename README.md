@@ -12,11 +12,11 @@
 <br/>
 💫I work as a software engineer for Elastiq.ai<br/>
 <br/>
-💡some technologies I enjoy working with include Cypress, Selenium, PlayRight, Python,go, java and Node.js. Currently exploring 
+💡some technologies I enjoy working with include Cypress, Selenium, PlayRight, Python,go. Currently exploring 
 frameworks - springboot and Django.<p>
   <br/>
   <br/>
-💫I'm on track for learning more about different tools in Testing UI's and Api's, Cross-Platform Development, Systems Design, and Algorithms.<br/>
+💫I'm on track for learning more about different tools in Testing UI's, Api's and Backend. Cross-Platform Development, Systems Design, and Algorithms.<br/>
   <br/>
 📧You can also connect with me on  mohammedfazil196@gmail.com !..i'll try to respond you as soon as i can🙃 
   <br/>
