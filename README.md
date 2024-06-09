@@ -12,8 +12,7 @@
 <br/>
 💫I work as a software engineer for Elastiq.ai<br/>
 <br/>
-💡some technologies I enjoy working with include Cypress, Selenium, PlayRight, Python,go. Currently exploring 
-frameworks - springboot and Django.<p>
+💡some technologies I enjoy working with include Cypress, Selenium, PlayRight, Python and go. Currently Diggin SRE/Devops Tools
   <br/>
   <br/>
 💫I'm on track for learning more about different tools in Testing UI's, Api's and Backend. Cross-Platform Development, Systems Design, and Algorithms.<br/>
