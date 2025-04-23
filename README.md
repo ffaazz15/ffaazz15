@@ -21,6 +21,11 @@
   <br/>
 
 
+## 📊 Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ffaazz15&show_icons=true&theme=dark)](https://github.com/ffaazz15)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ffaazz15&layout=compact)](https://github.com/ffaazz15)
 
+## 🗓️ Activity
+![Contribution Graph](https://ghchart.rshah.org/ffaazz15)
 
 
