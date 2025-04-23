@@ -25,8 +25,4 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ffaazz15&show_icons=true&theme=dark)](https://github.com/ffaazz15)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ffaazz15&layout=compact)](https://github.com/ffaazz15)
 
-## Code Review
-
-![Contribution Graph](https://quickchart.io/chart?c={type:'bar',data:{labels:['Commits','Issues','Pull Requests'],datasets:[{data:[97,1,2],backgroundColor:['#2ecc71','#e74c3c','#3498db']}]}&width=600&height=200)
-
 
