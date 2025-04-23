@@ -26,6 +26,32 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ffaazz15&layout=compact)](https://github.com/ffaazz15)
 
 ## 🗓️ Activity
-![Contribution Graph](https://ghchart.rshah.org/ffaazz15)
+# Less            More
+
+## Code Review
+
+![Code Review](https://img.shields.io/badge/Commits-97%25-brightgreen)
+![Code Review](https://img.shields.io/badge/Review_Issues-1%25-red)
+
+## Pull Requests
+
+![PRs](https://img.shields.io/badge/Merged-2%25-yellowgreen)
+![PRs](https://img.shields.io/badge/Conflicts-1%25-orange)
+
+## Tools & Repositories Timeline
+
+**2023**   ▸ Current Projects  
+**2022**   ▸ Core System Upgrades  
+**2021**   ▸ CI/CD Implementation  
+**2020**   ▸ Microservices Migration  
+**2019**   ▸ Legacy System Maintenance  
+**2018**   ▸ Initial DevOps Setup
+
+---
+
+### Activity Overview
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ffaazz15)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ffaazz15&layout=compact)](https://github.com/ffazz15/github-readme-stats)
 
 
