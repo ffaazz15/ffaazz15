@@ -10,7 +10,7 @@
 </p><br/>
 🎓I'am computer science engineer<br/>
 <br/>
-💫I work as a software engineer for Elastiq.ai<br/>
+💫I work as a senior software engineer for crowdstrike<br/>
 <br/>
 💡some technologies I enjoy working with include Cypress, Selenium, PlayRight, Python and go. Currently Diggin SRE/Devops Tools
   <br/>
